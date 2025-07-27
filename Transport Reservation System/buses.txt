@@ -1,0 +1,7 @@
+Bus Number,Driver Name,Departure Time,Arrival Time,From,To,Total Seats,Available Seats,Seat Status
+101,Ali Raza,08:00 AM,11:00 AM,Lahore,Islamabad,10,7,1110000000
+102,Sana Khan,10:00 AM,01:00 PM,Faisalabad,Multan,8,6,00100000
+103,Zahid Malik,02:00 PM,06:00 PM,Karachi,Hyderabad,12,10,100000000000
+104,Adeel Abbas,09:30 AM,12:30 PM,Lahore,Rawalpindi,9,8,010000000
+105,Maria Javed,03:15 PM,07:00 PM,Quetta,Larkana,6,5,100000
+

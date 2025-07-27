@@ -171,11 +171,11 @@ Below is the step-by-step logic of the **Transport Reservation System** implemen
 
 ## ⚠️ Limitations
 
-2. Uses text files for data storage (not scalable)
-3. No transaction management — not safe for concurrent users
-4. Command-line interface (no GUI)
-5. May not perform well under high data load
-6. Code is not modular, making future updates harder
+1. Uses text files for data storage (not scalable)
+2. No transaction management — not safe for concurrent users
+3. Command-line interface (no GUI)
+4. May not perform well under high data load
+5. Code is not modular, making future updates harder
 
 ---
 
